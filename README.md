@@ -34,11 +34,7 @@ A visualization tool for various sorting algorithms implemented in Python. See h
 4. Use the user interface to select a sorting algorithm, dataset, and adjust the visualization settings.
 5. Start the visualization and observe the sorting algorithm in action.
 
-## Authors:
 
-- Nazir Sharifi(@nazir20)
-- Judy Nkwama(@judy-nkwama)
-- Aslı Bozkurt(@asliBozkurt)
 
 ## Screenshots:
 
